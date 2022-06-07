@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this resource, please cite it as below."
+authors:
+  - family-names: Mitra
+    given-names: Auromita
+    orcid: http://orcid.org/0000-0002-9986-8189
+  - family-names: Dutta
+    given-names: Indranil
+    orcid: http://orcid.org/0000-0001-8522-5302
+title: "Acoustic model for Khalka Mongolian"
+version: 1.0.0
+doi: 
+date-released:
+url: "https://github.com/auromitamitra/Mongolian_Acoustic_Model"
